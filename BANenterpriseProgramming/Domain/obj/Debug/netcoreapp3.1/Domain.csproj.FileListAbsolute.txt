@@ -1,0 +1,10 @@
+E:\ep\BANenterpriseProgramming\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\ep\BANenterpriseProgramming\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\ep\BANenterpriseProgramming\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

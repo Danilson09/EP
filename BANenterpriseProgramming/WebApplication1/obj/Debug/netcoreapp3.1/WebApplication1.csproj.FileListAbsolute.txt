@@ -387,3 +387,9 @@ E:\ep\BANenterpriseProgramming\WebApplication1\obj\Debug\netcoreapp3.1\WebApplic
 E:\ep\BANenterpriseProgramming\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 E:\ep\BANenterpriseProgramming\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 E:\ep\BANenterpriseProgramming\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+E:\ep\BANenterpriseProgramming\WebApplication1\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+E:\ep\BANenterpriseProgramming\WebApplication1\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\ep\BANenterpriseProgramming\WebApplication1\bin\Debug\netcoreapp3.1\Domain.dll
+E:\ep\BANenterpriseProgramming\WebApplication1\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+E:\ep\BANenterpriseProgramming\WebApplication1\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\ep\BANenterpriseProgramming\WebApplication1\bin\Debug\netcoreapp3.1\Domain.pdb

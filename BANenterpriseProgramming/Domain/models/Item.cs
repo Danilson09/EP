@@ -11,6 +11,7 @@ namespace Domain.models
         // classes withing the domain models will be used
         // to model/shape your database, a code first approach
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public int Stock { get; set; }
 
@@ -21,7 +22,7 @@ namespace Domain.models
         public int Rating { get; set; }
         public double Price { get; set; }
         
-        //
+        
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
 

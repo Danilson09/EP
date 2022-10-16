@@ -8,3 +8,9 @@ E:\ep\BANenterpriseProgramming\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.Ass
 E:\ep\BANenterpriseProgramming\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
 E:\ep\BANenterpriseProgramming\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 E:\ep\BANenterpriseProgramming\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+E:\ep\BANenterpriseProgramming\DataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+E:\ep\BANenterpriseProgramming\DataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\ep\BANenterpriseProgramming\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+E:\ep\BANenterpriseProgramming\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+E:\ep\BANenterpriseProgramming\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+E:\ep\BANenterpriseProgramming\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

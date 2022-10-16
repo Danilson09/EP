@@ -8,3 +8,11 @@ E:\ep\BANenterpriseProgramming\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLog
 E:\ep\BANenterpriseProgramming\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
 E:\ep\BANenterpriseProgramming\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
 E:\ep\BANenterpriseProgramming\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+E:\ep\BANenterpriseProgramming\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\ep\BANenterpriseProgramming\BusinessLogic\bin\Debug\netcoreapp3.1\Domain.dll
+E:\ep\BANenterpriseProgramming\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\ep\BANenterpriseProgramming\BusinessLogic\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\ep\BANenterpriseProgramming\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+E:\ep\BANenterpriseProgramming\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.runtimeconfig.json
+E:\ep\BANenterpriseProgramming\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.runtimeconfig.dev.json
+E:\ep\BANenterpriseProgramming\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.genruntimeconfig.cache

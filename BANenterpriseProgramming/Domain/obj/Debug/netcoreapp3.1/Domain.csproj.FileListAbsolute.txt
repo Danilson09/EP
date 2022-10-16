@@ -8,3 +8,6 @@ E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInf
 E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\ep\BANenterpriseProgramming\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+E:\ep\BANenterpriseProgramming\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+E:\ep\BANenterpriseProgramming\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

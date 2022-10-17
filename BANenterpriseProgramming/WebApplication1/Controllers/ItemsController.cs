@@ -25,8 +25,8 @@ namespace WebApplication1.Controllers
             }
 
             catch (Exception ex)
-            { 
-                ViewBag.Message = "Item was not added successfully. Please check inputs"
+            {
+                ViewBag.Message = "Item was not added successfully. Please check inputs";
             }
 
             //call the itemservice additem method

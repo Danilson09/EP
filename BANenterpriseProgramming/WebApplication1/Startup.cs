@@ -1,3 +1,4 @@
+using DataAccess.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -11,7 +12,23 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication1.Data;
+
+
+
+/*
+ * 1. we changed ApplicationDbContext into our own context e.g. ShoppingCartContext
+2. you confirm (or change as necessary) the connection string
+3. To build (DO NOT TRY TO SKIP TO STEP 4 IF THERE ARE ERRORS OR IF YOU HAVEN'T BUILT SUCCESSFULLY)
+4. Open Package Manager Console:
+   4.1: Select the project where the context class is i.e. DataAccess, as the Default Project
+   4.2: Make the website in the solution explorer your startup project
+   4.3: Command no. 1: add-migration "FirstMigration" -Context ShoppingCartContext
+        4.3.1: to check whether your tables-to-be are generated within the code
+   4.4: command no. 2: update-database -context shoppingcartcontext
+ * 
+ */
+
+
 
 namespace WebApplication1
 {
@@ -27,11 +44,11 @@ namespace WebApplication1
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ApplicationDbContext>(options =>
+            services.AddDbContext<ShoppingCartContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                .AddEntityFrameworkStores<ShoppingCartContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }
